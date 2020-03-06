@@ -113,7 +113,8 @@ nav{
     background-color: #F4F4F4;
     padding: 20px;
     position: sticky;
-    top: 106px;
+    /* top: 106px; */
+    top: 100px;
 }
 nav ul{
     white-space: nowrap;
